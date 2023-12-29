@@ -41,7 +41,6 @@ Debido al tamaño del conjunto de datos utilizado, la mayoría de los ficheros n
 ## Instalación del Entorno
 Para instalar y activar el entorno para ejecutar seduccion_algoritmica_1.ipynb, use los siguientes comandos:
 
-```bash
 conda env create -f environment.yml
 conda activate mi_entorno
 
