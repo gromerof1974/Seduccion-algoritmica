@@ -6,4 +6,4 @@ Para instalar y activar el entorno, use los siguientes comandos:
 
 ```bash
 conda env create -f environment.yml
-conda activate mi_entorno ```
+conda activate mi_entorno
