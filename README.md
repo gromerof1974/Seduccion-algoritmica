@@ -45,4 +45,5 @@ Para instalar y activar el entorno para ejecutar seduccion_algoritmica_1.ipynb, 
 conda env create -f environment.yml
 conda activate mi_entorno
 ```
+
 Para la ejecución del resto de notebooks se recomienda una máquina A100 de Google Colab con alta capacidad de memoria, lo que requeriría una suscripción Pro como mínimo.
